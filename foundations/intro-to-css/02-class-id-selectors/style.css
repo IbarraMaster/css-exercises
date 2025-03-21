@@ -1,0 +1,19 @@
+.impar{
+    background-color: #eb5aa0;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+#two{
+    color: #5a79eb;
+    font-size: 36px;
+}
+
+.adjustFontSize{
+    font-size: 24px;
+}
+
+#four{
+    background-color: #50e732;
+    font-size: 24px;
+    font-weight: 700;
+}
