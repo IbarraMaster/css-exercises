@@ -46,3 +46,39 @@ a {
 ul {
   list-style-type: none;
 }
+
+
+/*Mi solucion */
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  height: auto;
+}
+
+.logoAndlinks{
+  display: flex;
+  margin: 15px 0px 15px 15px;
+  align-items: center;
+}
+.notiAndImage{
+  display: flex;  
+  margin: 15px 15px 15px 15px;
+  gap: 10px;
+  align-items: center;
+}
+.links{
+  display: flex;
+  gap: 10px;
+}
+
+.logo{
+  margin-left: 30px;
+}
+
+button{
+  height: fit-content;
+}
+ul{
+  d
+}
